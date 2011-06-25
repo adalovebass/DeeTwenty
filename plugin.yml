@@ -1,0 +1,8 @@
+name: DeeTwenty
+main: info.llamanet.DeeTwenty.DeeTwenty
+version: 0
+commands:
+    roll:
+        description: Roll a DeeTwenty!
+        usage: |
+            /<command>
